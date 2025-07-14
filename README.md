@@ -1,8 +1,6 @@
 # Sistema Bancario con Microservicios OMARCODE
 
-[![CI Customer Service](https://github.com/<Omarrivv>/<https://github.com/Omarrivv/prueba_bcp_demos>/actions/workflows/ci-microservices.yml/badge.svg?branch=main&event=push)](https://github.com/<Omarrivv>/<https://github.com/Omarrivv/prueba_bcp_demos>/actions/workflows/ci-microservices.yml)
-
-> Cambia <Omarrivv> y <https://github.com/Omarrivv/prueba_bcp_demos> por tu usuario y nombre de repo en GitHub para que los badges funcionen correctamente.
+[![CI Customer Service](https://github.com/Omarrivv/ibarracachorrito/actions/workflows/ci-microservices.yml/badge.svg?branch=main&event=push)](https://github.com/Omarrivv/ibarracachorrito/actions/workflows/ci-microservices.yml)
 
 ## Descripción General
 
