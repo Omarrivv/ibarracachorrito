@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: account-service
+  data:
+    mongodb:
+      uri: mongodb+srv://vallegrandeomar:oFnm1G368PeimZNj@cluster0.srr0s.mongodb.net/accountdb?retryWrites=true&w=majority&appName=Cluster0
+      database: accountdb
+      auto-index-creation: true
+  config:
+    import: optional:configserver:http://localhost:8888
+server:
+  port: 8082
+logging:
+  level:
+    root: INFO
+
+bank:
+  account:
+    collection: accounts 
